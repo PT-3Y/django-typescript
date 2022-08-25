@@ -1,5 +1,5 @@
-[![License: MIT](https://img.shields.io/github/license/devsmith-pro/django-react-typescript)](LICENSE)
-![Build and Test app](https://github.com/devsmith-pro/django-react-typescript/workflows/Build%20and%20Test%20app/badge.svg)
+[![License: MIT](https://img.shields.io/github/license/devsmith-pro/django-typescript)](LICENSE)
+![Build and Test app](https://github.com/devsmith-pro/django-typescript/workflows/Build%20and%20Test%20app/badge.svg)
 
 <p align="center">
   <img alt="django-react-typescript logo" src="assets/Logo.png" />
@@ -68,7 +68,7 @@ This is a fully-featured Django-React boilerplate built for great development ex
 
 ## Development directions
 
-1. Clone this repo: `git clone https://github.com/devsmith-pro/django-react-typescript.git`
+1. Clone this repo: `git clone https://github.com/devsmith-pro/django-typescript.git`
 2. Create a virtual environment: `python -m venv venv`
 3. Activate it ☝️: `source venv/bin/activate` or `venv\Scripts\activate` if you're on a Windows
 4. Install dependencies: `npm i && pip install -r requirements.txt && cd frontend && npm i`
